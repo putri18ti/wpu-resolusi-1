@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Putri 
+
+Resolusi saya :
+-Membuat website menggunakan java
+-Menghubungkan ke database
